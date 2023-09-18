@@ -6,46 +6,35 @@ ___
 > [___Day00:___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day00)
     Today you will see how relational model works and how to get needed data based on basic   constructions of  SQL
 
-- [___Day01___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day01)
-  
-Today you will see how to get needed data based on sets constructions and simple JOINs
+> [___Day01:___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day01)
+  Today you will see how to get needed data based on sets constructions and simple JOINs
 
-- [___Day02___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day02)
-  
-Today you will see how to get needed data based on different structures JOINs
+> [___Day02:___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day02)
+  Today you will see how to get needed data based on different structures JOINs
 
-- [___Day03___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day03)
-  
-Today you will see how to change data based on DML language
+> [___Day03:___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day03)
+  Today you will see how to change data based on DML language
 
-- [___Day04___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day04)
-  
-Today you will see how to use a virtual view and physical snapshot of data
+> [___Day04:___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day04)
+  Today you will see how to use a virtual view and physical snapshot of data
 
-- [___Weekend01___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Weekend01)
-  
-Today you will implementing a quick solution on SQL to achieve results of Traveling Salesman Problem
+> [___Weekend01:___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Weekend01)
+  Today you will implementing a quick solution on SQL to achieve results of Traveling Salesman Problem
 
-- [___Day05___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day05)
-  
-Today you will see how and when to create database indexes
+> [___Day05:___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day05)
+  Today you will see how and when to create database indexes
 
-- [___Day06___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day06)
-  
-Today you will see how to add a new business feature into our data model
+> [___Day06:___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day06)
+  Today you will see how to add a new business feature into our data model
 
-- [___Day07___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day07)
-  
-Today you will see how to use specific OLAP constructions to get a “Value” from data
+> [___Day07:___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day07)
+  Today you will see how to use specific OLAP constructions to get a “Value” from data
 
-- [___Day08___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day08)
-  
-Today you will see how database works with transactions and isolation levels
+> [___Day08:___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day08)
+  Today you will see how database works with transactions and isolation levels
 
-- [___Day09___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day09)
-  
-Today you will see how to create and use functional blocks in Databases
+> [___Day09:___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day09)
+  Today you will see how to create and use functional blocks in Databases
 
-- [___Weekend02___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Weekend02)
-  
-Today you will know what DWH is and how to create a first ETL process
+> [___Weekend02:___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Weekend02)
+  Today you will know what DWH is and how to create a first ETL process
