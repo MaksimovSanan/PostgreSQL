@@ -1,5 +1,5 @@
 # SQL Bootcamp
-## ___from School21___:heart: 
+## _from_ ___School21___:heart: 
 
 __Please download a script with Database Model [here](https://github.com/MaksimovSanan/PostgreSQL/blob/main/model.sql) and apply the script to your database__
 ___
