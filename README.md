@@ -3,9 +3,8 @@
 
 __Please download a script with Database Model [here](https://github.com/MaksimovSanan/PostgreSQL/blob/main/model.sql) and apply the script to your database__
 ___
-> [___Day00___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day00)
-    
-Today you will see how relational model works and how to get needed data based on basic   constructions of  SQL
+> [___Day00:___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day00)
+    Today you will see how relational model works and how to get needed data based on basic   constructions of  SQL
 
 - [___Day01___](https://github.com/MaksimovSanan/PostgreSQL/tree/main/Day01)
   
